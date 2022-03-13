@@ -1,0 +1,26 @@
+{
+  "name": "vk_saver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infodusha/vk_saver.git"
+  },
+  "author": "infodusha",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/infodusha/vk_saver/issues"
+  },
+  "homepage": "https://github.com/infodusha/vk_saver#readme",
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "jsdom": "^19.0.0",
+    "node-fetch": "^3.2.3"
+  }
+}
